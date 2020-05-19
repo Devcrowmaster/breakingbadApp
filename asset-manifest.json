@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/breakingbadapp/static/css/main.a745b6e6.chunk.css",
+    "main.js": "/breakingbadapp/static/js/main.9fdb7abd.chunk.js",
+    "main.js.map": "/breakingbadapp/static/js/main.9fdb7abd.chunk.js.map",
+    "runtime-main.js": "/breakingbadapp/static/js/runtime-main.16eb3b05.js",
+    "runtime-main.js.map": "/breakingbadapp/static/js/runtime-main.16eb3b05.js.map",
+    "static/js/2.5c62a9e9.chunk.js": "/breakingbadapp/static/js/2.5c62a9e9.chunk.js",
+    "static/js/2.5c62a9e9.chunk.js.map": "/breakingbadapp/static/js/2.5c62a9e9.chunk.js.map",
+    "index.html": "/breakingbadapp/index.html",
+    "precache-manifest.72bf0a635fd44bf279c44c484fe60e74.js": "/breakingbadapp/precache-manifest.72bf0a635fd44bf279c44c484fe60e74.js",
+    "service-worker.js": "/breakingbadapp/service-worker.js",
+    "static/css/main.a745b6e6.chunk.css.map": "/breakingbadapp/static/css/main.a745b6e6.chunk.css.map",
+    "static/js/2.5c62a9e9.chunk.js.LICENSE.txt": "/breakingbadapp/static/js/2.5c62a9e9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/breakingbadapp/static/media/logo.6bf365ba.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16eb3b05.js",
+    "static/js/2.5c62a9e9.chunk.js",
+    "static/css/main.a745b6e6.chunk.css",
+    "static/js/main.9fdb7abd.chunk.js"
+  ]
+}
